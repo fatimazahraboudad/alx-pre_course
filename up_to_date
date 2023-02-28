@@ -1,1 +1,6 @@
+git add .
+git commit -m 'My first commit'
+git push 
+git checkout update_script
 git pull
+
